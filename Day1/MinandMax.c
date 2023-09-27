@@ -17,7 +17,7 @@ long x = 54;
 int y = 5.00;
 int a = 1000000000,b = 1000000;
 
-float z = (long)5.149;
+float z = (long)6.149;
 int c = 5.6;
 printf("%f",(float)c);
 }
