@@ -22,15 +22,15 @@ int main()
 
     if (a > b && a > c)
 
-        printf("Biggest number is %d", a);
+        printf("Largest number is %d", a);
 
     if (b > a && b > c)
 
-        printf("Biggest number is %d", b);
+        printf("Largest number is %d", b);
 
     if (c > a && c > b)
 
-        printf("Biggest number is %d", c);
+        printf("Largest number is %d", c);
 
     return 0;
 
